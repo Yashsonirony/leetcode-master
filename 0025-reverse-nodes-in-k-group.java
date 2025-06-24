@@ -8,7 +8,6 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-
 //This recursive approach is super intuitive taken from leetcode discuss.
 
 // Time Complexity: O(n)
