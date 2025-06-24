@@ -1,5 +1,4 @@
 class Solution {
-
     public int lengthOfLongestSubstring(String s) {
             List<Character> substringL = new ArrayList<>();
             int largestlength = 0;
