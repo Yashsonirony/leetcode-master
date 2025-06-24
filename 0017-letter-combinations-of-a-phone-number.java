@@ -1,9 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
-
 class Solution {
-
     private Map<Character, String> digitToChar = Map.of(
         '2',
         "abc",
