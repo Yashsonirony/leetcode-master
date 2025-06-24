@@ -1,5 +1,4 @@
 class Solution {
-
     //2 pointers
     public List<List<Integer>> threeSum(int[] nums) {
         Arrays.sort(nums);
