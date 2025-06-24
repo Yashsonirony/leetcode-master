@@ -8,7 +8,6 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-
 //         Using Two Pointer Approach:
 //         Take a pointer second and put it at (n+1)th position from the beginning
 //         Take pointer first and move it forward till second reaches Last Node and second.next points to null
