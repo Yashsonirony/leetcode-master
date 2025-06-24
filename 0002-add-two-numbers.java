@@ -5,9 +5,7 @@
     Space Complexity - o(1)
     Note - make use of modulo (get remainder) and division (get quotient)
 */
-
 class Solution {
-
     public ListNode addTwoNumbers(ListNode first, ListNode second) {
         int q = 0;
         int r = 0;
