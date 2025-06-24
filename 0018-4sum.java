@@ -2,7 +2,6 @@ class Solution {
     public static List<List<Integer>> fourSum(int[] nums, int target) {
         List<List<Integer>> res = new ArrayList<>();
         Arrays.sort(nums);
-
         for (int a = 0; a < nums.length-3; a++) {
             if (a > 0 && nums[a] == nums[a - 1]) {
                 continue;
